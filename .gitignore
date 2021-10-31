@@ -1,0 +1,7 @@
+/env
+/__pycache__/
+/.metals/
+/.vscode/
+/dexterOutput/*.csv
+/outputs/*.csv
+/uploads/*.pdf
